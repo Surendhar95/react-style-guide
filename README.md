@@ -1,4 +1,4 @@
-# React/JSX Style Guide
+# React/JSX Style Guide 
 
 
 
@@ -654,4 +654,4 @@
 
   [anti-pattern]: https://facebook.github.io/react/blog/2015/12/16/ismounted-antipattern.html
 
-
+*Disclaimer: Inspired from Airbnb JS style guides
